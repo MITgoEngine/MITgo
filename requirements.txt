@@ -5,7 +5,7 @@ json5==0.9.4
 jsonschema==3.2.0
 nltk==3.5
 pandas==1.1.4
-pipenv==2020.8.13
+pipenv==2022.1.8
 pyinstaller==4.0
 pyinstaller-hooks-contrib==2020.10
 scikit-learn==0.23.2
